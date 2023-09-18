@@ -10,7 +10,7 @@ A third party Telegram client library [danog/MadelineProto](https://github.com/d
 Add the laravel-madeline-proto to the project dependency:
 
 ```shell script
-composer require setiawanhu/laravel-madeline-proto
+composer require salo-man/laravel-madeline-proto
 ```
 
 Then publish the `telegram.php` config file:
