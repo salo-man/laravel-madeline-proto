@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^8.1",
-        "danog/madelineproto": "^8.x"
+        "danog/madelineproto": "^8"
     },
     "autoload": {
         "psr-4": {
